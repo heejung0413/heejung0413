@@ -18,5 +18,4 @@
  ##  💻 GitHub Analytics💻
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heejung0413&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=heejung0413&show_icons=true">
 </div>

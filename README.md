@@ -15,10 +15,3 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 
 <br/>
-
-<br/>
-
- ##  💻 GitHub Analytics💻
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heejung0413&layout=compact">
-</div>

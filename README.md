@@ -4,7 +4,8 @@
 ✔ 프론트 개발자를 꿈꿉니다
 <br/>✔ javascript, html, css 언어와 SQL, python을 공부하고 있습니다. 
 <br/>✔ 노션과 포트폴리오 웹페이지를 확인해주세요 !
-
+<br/> 노션 링크: https://absorbed-forest-da0.notion.site/4410a31d2ca647779c154c15adcec7b5
+<br/> 포트폴리오 웹 페이지 링크: https://heejung0413.github.io/web-porfolio-1/
 <br/>
 
 ## ✨ STUDYNG ✨

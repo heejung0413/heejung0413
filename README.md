@@ -6,7 +6,7 @@
 <br/>✔ 노션과 포트폴리오 웹페이지를 확인해주세요 !
 <br/> 노션 링크: https://absorbed-forest-da0.notion.site/4410a31d2ca647779c154c15adcec7b5
 <br/> 포트폴리오 웹 페이지 링크: https://heejung0413.github.io/web-porfolio-1/
-<br/>
+<br/> <h3><a href="https://absorbed-forest-da0.notion.site/4410a31d2ca647779c154c15adcec7b5"> 노션 링크 </a></h3>
 
 ## ✨ STUDYNG ✨
 <div>

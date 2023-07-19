@@ -19,10 +19,10 @@
 
 ## 💻 &nbsp;GitHub Analytics 💻
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=heejung0413&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/heejung0413/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejung0413&layout=compact&theme=algolia)](https://github.com/heejung0413/github-readme-stats)
 
 <br/>
 
 ## 🤝🏻 &nbsp;Links 🤝🏻
+<a href="https://blog.naver.com/acb4287"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="acb4287@naver.com"><img src="https://img.shields.io/badge/-acb4287@naver.com-D14836?style=flat&logo=naver.com&logoColor=white"/></a>

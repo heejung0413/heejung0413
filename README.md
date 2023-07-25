@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?heejung0413={heejung0413}&theme=warm"/>
 
 ## 🤝🏻 &nbsp;Links 🤝🏻
 <a href="https://blog.naver.com/acb4287"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>

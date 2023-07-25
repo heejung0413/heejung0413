@@ -18,7 +18,8 @@
 	 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
   	<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/> 
 <br/>
 
 

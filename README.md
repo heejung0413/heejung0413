@@ -16,6 +16,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 <br/>
 

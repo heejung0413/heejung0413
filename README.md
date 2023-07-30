@@ -1,4 +1,4 @@
-
+    
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There!&fontAlign=70&fontAlignY=40&color=gradient)
 ## 👋 INTRODUCE 👋 
 ✔ 프론트 개발자를 꿈꿉니다

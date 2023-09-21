@@ -31,5 +31,4 @@
 <br/>
 
 ## 🤝🏻 &nbsp;Links 🤝🏻
-<a href="https://blog.naver.com/acb4287"><img src="https://img.shields.io/badge/-Velog-96f2d7?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="acb4287@naver.com"><img src="https://img.shields.io/badge/-acb4287@naver.com-D14836?style=flat&logo=naver.com&logoColor=white"/></a>

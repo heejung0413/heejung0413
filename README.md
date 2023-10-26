@@ -23,7 +23,7 @@
 <br/>
 
 
-## 💻 &nbsp;GitHub Analytics 💻
+## 💻 GitHub Analytics 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejung0413&layout=compact&theme=algolia)](https://github.com/heejung0413/github-readme-statssss)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejung0413&langs_count=8)](https://github.com/heejung0413/github-readme-stats)

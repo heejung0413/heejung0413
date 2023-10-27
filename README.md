@@ -2,7 +2,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There!&fontAlign=70&fontAlignY=40&color=gradient)
 ## 👋 INTRODUCE 👋 
 ✔ 프론트엔드 개발자를 꿈꿉니다
-<br/>✔ javascript, html, css 언어와 react, node.js을 공부하고 있습니다. 
+<br/>✔ javascript, html, css 언어와 React, TypeScript을 공부하고 있습니다. 
 <br/>✔ 노션과 포트폴리오 웹페이지를 확인해주세요 !
 <br/>✔ 현재 멀티잇 프론트엔드 부트캠프에 참여하고 있습니다!
 <br/> 👉🏻 <a href="https://absorbed-forest-da0.notion.site/4410a31d2ca647779c154c15adcec7b5"> 노션 링크 </a>

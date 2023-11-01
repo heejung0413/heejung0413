@@ -6,7 +6,7 @@
 <br/>✔ 노션과 포트폴리오 웹페이지를 확인해주세요 !
 <br/>✔ 현재 멀티잇 프론트엔드 부트캠프에 참여하고 있습니다!
 <br/> 👉🏻 <a href="https://absorbed-forest-da0.notion.site/4410a31d2ca647779c154c15adcec7b5"> 노션 링크 </a>
-<br/> // 👉🏻 <a href="https://heejung0413.github.io/web-porfolio-1/"> 포트폴리오 웹페이지 링크 </a>
+<br/> /* 👉🏻 <a href="https://heejung0413.github.io/web-porfolio-1/"> 포트폴리오 웹페이지 링크 */ </a>
 <br/>
 
 ## ✨ STUDYNG ✨

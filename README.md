@@ -19,6 +19,7 @@
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=purple"/>
+	<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=purple"/>
  
 
 <br/>

@@ -17,9 +17,9 @@
   	<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/> 
-	<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=purple"/>
-	<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=purple"/>
+	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=purple"/>
+	<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=purple"/>
  
 
 <br/>

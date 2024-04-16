@@ -19,7 +19,8 @@
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 	<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=purple"/>
-	<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=purple"/>
+	<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/>
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
  
 
 <br/>

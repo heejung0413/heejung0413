@@ -33,5 +33,5 @@
 <br/>
 
 ## 🤝🏻 LINK 🤝🏻
-<a href="acb4287@naver.com"><img src="https://img.shields.io/badge/-acb4287@naver.com-D14836?style=flat&logo=naver.com&logoColor=white"/></a>
-<a href="www.heedymy.tistory.com"><img src="https://img.shields.io/badge/-heedymy.tistory.com-D14836?style=flat&logo=tistory&logoColor=white"/></a>
+<a href="mailto:acb4287@naver.com"><img src="https://img.shields.io/badge/-acb4287@naver.com-D14836?style=flat&logo=naver.com&logoColor=white"/></a>
+<a href="https://heedymy.tistory.com"><img src="https://img.shields.io/badge/-heedymy.tistory.com-D14836?style=flat&logo=tistory&logoColor=white"/></a>

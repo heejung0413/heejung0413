@@ -26,12 +26,6 @@
 <br/>
 
 
-## 💻 GITHUB ANALYTICS 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejung0413&langs_count=8)](https://github.com/heejung0413/github-readme-stats)
-
-<br/>
-
 ## 🤝🏻 LINK 🤝🏻
 <a href="mailto:acb4287@naver.com"><img src="https://img.shields.io/badge/-acb4287@naver.com-D14836?style=flat&logo=naver.com&logoColor=white"/></a>
 <a href="https://heedymy.tistory.com"><img src="https://img.shields.io/badge/-heedymy.tistory.com-D14836?style=flat&logo=tistory&logoColor=white"/></a>

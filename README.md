@@ -1,10 +1,5 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=hello!&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-## 👋 INTRODUCE 👋 
-✔ 프론트엔드 개발자를 꿈꿉니다.
-<br/>✔ JavaScript, React, TypeScript, Next.js을 공부하고 있습니다. 
-<br/>✔ 멀티잇 프론트엔드 개발(React) 3회차 부트캠프에 참여한 경험이 있습니다!
-<br/>
 
 ## ✨ STUDYNG ✨
 <div>

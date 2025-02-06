@@ -23,4 +23,4 @@
 
 ## 🤝🏻 LINK 🤝🏻
 <a href="mailto:heejung.im@nextintelligence.ai"><img src="https://img.shields.io/badge/-heejung.im@nextintelligence.ai-f2c389?style=flat&logoColor=white"/></a>
-<a href="https://heedymy.tistory.com"><img src="https://img.shields.io/badge/-heedymy.tistory.com-D14836?style=flat&logo=tistory&logoColor=white"/></a>
+<a href="https://heedymy.tistory.com"><img src="https://img.shields.io/badge/-heedymy.tistory.com-ff9970?style=flat&logo=tistory&logoColor=white"/></a>

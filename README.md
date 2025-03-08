@@ -1,7 +1,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=hello!&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-## ✨ STUDYNG ✨
+## ✨ TECHNOLOGY ✨
 <div>
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />

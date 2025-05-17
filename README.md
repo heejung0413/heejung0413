@@ -1,7 +1,7 @@
     
 
 
-## 👋 Hi
+## 👋 Hi, I'm Heejung
 
 I'm currently working at an IT company called **NextIntelligence.ai**, mainly focusing on frontend development.  
 Lately, I've also been exploring **Cloud Services on AWS**, expanding my interest beyond the frontend.

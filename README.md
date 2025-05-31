@@ -3,7 +3,6 @@
 ## 👩🏻‍💻 I'm Heejung – a frontend developer.
 
 I'm currently working at an IT company called **NextIntelligence.ai**, mainly focusing on frontend development.  
-Lately, I've also been exploring **Cloud Services on AWS**, expanding my interest beyond the frontend.
 
 ### 📫 Contact
 - **Email**: heejung.codes@gmail.com
